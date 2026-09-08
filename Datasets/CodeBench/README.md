@@ -30,6 +30,6 @@ CodeBench/
 
 Due to the large file size, this dataset is hosted on Zenodo.
 
-## URL
+## Link
 
 [CodeBench](https://zenodo.org/records/21713510?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjdiNTVkN2QxLTNlMTctNGQyZC1hYWM5LTFhNWE4ODZlMjRlOCIsImRhdGEiOnt9LCJyYW5kb20iOiI2MDE0OTIyMzIyYzRjMjY2YjQ1ODZiNmYzNGY3NzE1NSJ9.8yf4qwljP9LPeSVfn3OtReEcKcswp6mt7G5201XrQJCXYRaUdIJ6wR091RD8zJqmyvhVDh_m34RRny7t7Nz9OQ)

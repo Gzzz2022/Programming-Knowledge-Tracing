@@ -13,6 +13,6 @@ BUAA-CPP/
 
 Due to the large file size, this dataset is hosted on Zenodo.
 
-## URL
+## Link
 
 [BUAA-CPP](https://zenodo.org/records/21769414?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZkYjBiZGM2LWJlMmUtNDhiYy1hZDBmLTQyMzk3ZGYwY2JjNSIsImRhdGEiOnt9LCJyYW5kb20iOiIzODNhOThmZDFlZWY0NDEyZDQzNmViNzQyY2ViOTVjYSJ9.QHrIoMgFMouk8TFIlqaMSHVGpxCwkH3ZVd5nUvf1vHu6YdfaiHEPF8AYoF1p0JeX-7U-MdqLnwJrkFgEAA6dzg)

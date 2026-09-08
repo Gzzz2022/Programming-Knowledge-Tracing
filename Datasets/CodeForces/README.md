@@ -13,6 +13,6 @@ CodeForces/
 
 Due to the large file size, this dataset is hosted on Zenodo.
 
-## URL
+## Link
 
 [CodeForces](https://zenodo.org/records/21870657?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImE4YzJkOGVlLTBjY2ItNGM4NS05NjczLTVjZTM4YjY1MTE3MSIsImRhdGEiOnt9LCJyYW5kb20iOiJkNThhMjVmNDU4YjQ0NzkyMDhjODgxYTM0MjgyZDY2MiJ9.mJPk-GVnTAvkmGKqrwHASIaUsAexOt8gQUwi-wUgjyQwKg4mC1aB46cK9gNIZGAa_wePJUIkhr6WqHsKvDAA6Q)

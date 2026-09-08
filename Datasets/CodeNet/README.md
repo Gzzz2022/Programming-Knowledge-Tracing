@@ -13,6 +13,6 @@ CodeNet/
 
 Due to the large file size, this dataset is hosted on Zenodo.
 
-## URL
+## Link
 
 [CodeNet](https://zenodo.org/records/21736870?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI2ZGEyZTlhLTg1MmEtNDk4Yy05MmQ1LWQ0MjdlMjVjMGU2ZSIsImRhdGEiOnt9LCJyYW5kb20iOiIyZmRiNjA3YjRjZGEwZWMzZWMwNmYyMjhlODZiNGRlZCJ9.bSgUwdC5ztqXJv7-dgKrdgW_O0xJK4G4Cxq8moC8VZqo6MWOX_0PyPaTgkW4RUzIG9w6IRqHLODfM1c_NFbsbw)
